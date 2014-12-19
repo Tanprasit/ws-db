@@ -1,0 +1,40 @@
+.signup-button {
+    margin-left: 10px;
+}
+
+.widewrapper {
+    width:100%;
+}
+
+.widewrapper > img {
+    width:100%;
+}
+
+.bg {
+  background: url('../images/bg.jpg') no-repeat center;
+  background-size: cover;
+  width:100%;
+}
+
+.bg-text {
+    background-color: rgba(245,245,245,.8);
+}
+
+.new-h4-title {
+    color: #333;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 5px;
+}
+
+.new-img {
+    margin-bottom: 10px;
+    margin-top: 6%;
+}
+
+.new-btn-group {
+margin-bottom: 10px;
+}
+
+.navbar-nav>li:hover {
+    background-color: #e7e7e7;
+}
